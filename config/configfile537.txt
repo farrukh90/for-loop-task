@@ -1,0 +1,11 @@
+
+server {
+    location / {
+        root /data/537/www;
+}
+
+location /images/537 {
+    root /data;
+    }
+}
+

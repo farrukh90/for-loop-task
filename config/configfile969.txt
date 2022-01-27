@@ -1,0 +1,11 @@
+
+server {
+    location / {
+        root /data/969/www;
+}
+
+location /images/969 {
+    root /data;
+    }
+}
+

@@ -1,0 +1,11 @@
+
+server {
+    location / {
+        root /data/365/www;
+}
+
+location /images/365 {
+    root /data;
+    }
+}
+

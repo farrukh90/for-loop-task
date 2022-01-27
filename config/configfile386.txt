@@ -1,0 +1,11 @@
+
+server {
+    location / {
+        root /data/386/www;
+}
+
+location /images/386 {
+    root /data;
+    }
+}
+

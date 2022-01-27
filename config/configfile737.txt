@@ -1,0 +1,11 @@
+
+server {
+    location / {
+        root /data/737/www;
+}
+
+location /images/737 {
+    root /data;
+    }
+}
+

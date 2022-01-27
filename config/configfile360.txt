@@ -1,0 +1,11 @@
+
+server {
+    location / {
+        root /data/360/www;
+}
+
+location /images/360 {
+    root /data;
+    }
+}
+

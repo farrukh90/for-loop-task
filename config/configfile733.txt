@@ -1,0 +1,11 @@
+
+server {
+    location / {
+        root /data/733/www;
+}
+
+location /images/733 {
+    root /data;
+    }
+}
+

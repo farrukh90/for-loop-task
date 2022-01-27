@@ -1,0 +1,11 @@
+
+server {
+    location / {
+        root /data/212/www;
+}
+
+location /images/212 {
+    root /data;
+    }
+}
+

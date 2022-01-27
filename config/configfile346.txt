@@ -1,0 +1,11 @@
+
+server {
+    location / {
+        root /data/346/www;
+}
+
+location /images/346 {
+    root /data;
+    }
+}
+
